@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+section#conteudo {
+	width	:	1000px;
+	margin	:	auto;
+}
+
+section#corpo-full div{
+	display			:	block;
+	width			:	400px;
+	position		:	relative;
+	margin			:	0pt auto 10pt auto;
+	padding			:	5pt;
+}
+section#corpo-full div p{
+	text-indent			:	0pt;
+	text-align			:	center;
+	color				:	#ffffff;
+	background-color	:	#f97070;
+	box-shadow			:	2px 2px 2px rgba(0,0,0,0.4);
+	padding				:	5pt;
+}
+
+iframe#frame-spec{
+	width		: 	400px;
+	height		:	280px;
+	border		:	none;
+}
+
